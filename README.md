@@ -36,7 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="margin:5px;"/>
 </p>
 
-
+<a href="https://steamcommunity.com/profiles/76561199269914064/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" style="margin:5px;"/>
+</a>
 
 
 
