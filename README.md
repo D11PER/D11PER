@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Welkom+D11PER;Denis+Oliinyk)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Ollinyk)](https://git.io/typing-svg)
 
 ## 👤 About Me
 
