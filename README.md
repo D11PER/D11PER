@@ -40,15 +40,20 @@
 
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561199269914064/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" style="margin:5px;"/>
+    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/steam.svg" width="60" style="margin:5px;"/>
+  </a>
+  <a href="https://x.com/ТВОЙ_НИК">
+    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/x.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="https://instagram.com/ТВОЙ_НИК">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60" style="margin:5px;"/>
+    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/instagram.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="mailto:ТВОЙ_EMAIL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="60" style="margin:5px;"/>
+    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/mail.svg" width="60" style="margin:5px;"/>
   </a>
 </p>
+
+
 
 
 
