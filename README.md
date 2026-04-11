@@ -39,8 +39,7 @@
 ## 📬 Contact Me
 [![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199269914064/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/de.oliinyk/)  
-[![X](https://img.shields.io/badge/X-Profile-000000?logo=x&logoColor=white)](https://x.com/)  
-[![Email](https://img.shields.io/badge/Email-Write%20Me-blue?logo=gmail&logoColor=white)](oliinykden03@gmail.com)
+
 
 
 
