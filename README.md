@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/my_animation.gif" width="600"/>
-</p>
+## 📊 Minimalistic Chart
+
+<img src="minimal_line_chart.png" alt="Minimalistic Line Chart" width="600"/>
 
 
 ## 👤 About Me
