@@ -20,11 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Ukraine.svg" alt="Ukraine" width="60" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" alt="Europe" width="60" height="40"/>
-</p>
-
-<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg" alt="English" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Ukraine.svg" alt="Ukrainian" width="60" height="40"/>
 </p>
