@@ -21,12 +21,12 @@
 </p>
 
 
-## 🎵 Hobbies
+
+## 🛠️ Code Editors I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/Crypto-black?logo=bitcoin&logoColor=orange" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="100"/>
 </p>
-
 
 
 
