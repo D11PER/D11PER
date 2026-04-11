@@ -38,10 +38,18 @@
 
 ## 🌐 Socials
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" style="margin:5px;"/>
+  <a href="https://steamcommunity.com/id/ТВОЙ_ID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" style="margin:5px;"/>
+  </a>
+  <a href="https://twitter.com/ТВОЙ_НИК">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="60" style="margin:5px;"/>
+  </a>
+  <a href="https://instagram.com/ТВОЙ_НИК">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60" style="margin:5px;"/>
+  </a>
 </p>
+
+
 
 
 
