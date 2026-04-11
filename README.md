@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Skills
-<img src="https://path-to-image/html-logo.png" alt="HTML" width="50"/>
+<img src="https://www.citypng.com/photo/28020/html5-logo-icon-3d-hd-png" alt="HTML" width="50"/>
 <img src="https://path-to-image/css-logo.png" alt="CSS" width="50"/>
 <img src="https://path-to-image/python-logo.png" alt="Python" width="50"/>
 
