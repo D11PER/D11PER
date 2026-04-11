@@ -1,6 +1,5 @@
 ## 📊 Minimalistic Chart
-
-<img src="minimal_line_chart.png" alt="Minimalistic Line Chart" width="600"/>
+<img src="minimal_line_chart.gif" alt="Minimalistic Line Chart Animation" width="600"/>
 
 
 ## 👤 About Me
