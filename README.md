@@ -16,12 +16,14 @@
 
 
 ---
+## 🛠️ Skills
 
-## 🛠️ Skills
-## 🛠️ Skills
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+
+
+
 
 
 
