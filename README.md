@@ -6,11 +6,14 @@
 
 
 
+
 📍 UA 🇺🇦 | EU 🇪🇺  
-🎓 IT Student | В процессе обучения  
-💻 Изучаю HTML, CSS и Python  
-🎯 Стремлюсь к развитию в AI/ML и созданию реальных решений  
-🤝 Открыт к совместным проектам  
+🎓 IT Student at IT STEP | Currently learning  
+💻 Studying HTML, CSS, and Python  
+🎯 Goal — to become a Software Developer who builds intelligent backend solutions
+🤝 Open to collaboration and joint projects  
+
+
 
 ---
 
