@@ -40,18 +40,20 @@
 
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561199269914064/">
-    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/steam.svg" width="60" style="margin:"/>
+    <img src="https://vectorlogo.zone/logos/steam/steam-icon.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="https://x.com/ТВОЙ_НИК">
-    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/x.svg" width="60" style="margin:"/>
+    <img src="https://vectorlogo.zone/logos/x/x-icon.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="https://instagram.com/ТВОЙ_НИК">
-    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/instagram.svg" width="60" style="margin:"/>
+    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="mailto:ТВОЙ_EMAIL">
-    <img src="https://raw.githubusercontent.com/d11per-assets/icons/main/mail.svg" width="60" style="margin:"/>
+    <img src="https://vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60" style="margin:5px;"/>
   </a>
 </p>
+
+
 
 
 
