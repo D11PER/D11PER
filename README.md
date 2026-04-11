@@ -15,9 +15,11 @@
 ---
 
 ## 🛠️ Skills
-<img src="i{turn0image3}" alt="HTML" width="50"/>  
-<img src="i{turn0image10}" alt="CSS" width="50"/>  
-<img src="i{turn0image4}" alt="Python" width="50"/>  
+<img src="https://path-to-image/html-logo.png" alt="HTML" width="50"/>
+<img src="https://path-to-image/css-logo.png" alt="CSS" width="50"/>
+<img src="https://path-to-image/python-logo.png" alt="Python" width="50"/>
+
+
 
 ---
 
