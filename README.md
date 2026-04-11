@@ -36,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="margin:5px;"/>
 </p>
 
+## 🌐 Socials
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="60" style="margin:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="60" style="margin:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" style="margin:5px;"/>
+</p>
+
+
 
 
 
