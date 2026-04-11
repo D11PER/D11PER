@@ -41,7 +41,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/de.oliinyk/)  
 [![X](https://img.shields.io/badge/X-Profile-000000?logo=x&logoColor=white)](https://x.com/O_liinyk)  
 
-)  
 
 
 
