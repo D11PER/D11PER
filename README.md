@@ -1,4 +1,4 @@
-#№👤 About Me  
+##👤 About Me
 
 ![Location](https://img.shields.io/badge/Location-UA🇺🇦%20EU🇪🇺-blue)
 ![Role](https://img.shields.io/badge/Role-IT%20Student-green)
@@ -6,7 +6,7 @@
 
 
 
-
+## Denis Oliinyk
 🎓 IT Student at IT STEP | Currently learning  
 💻 Studying HTML, CSS, and Python  
 🎯 Goal — to become a Software Developer who builds intelligent backend solutions
