@@ -37,21 +37,12 @@
 </p>
 
 ## 📬 Contact Me
+[![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199269914064/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ТВОЙ_НИК)  
+[![X](https://img.shields.io/badge/X-Profile-000000?logo=x&logoColor=white)](https://x.com/ТВОЙ_НИК)  
+[![Email](https://img.shields.io/badge/Email-Write%20Me-blue?logo=gmail&logoColor=white)](mailto:ТВОЙ_EMAIL)
 
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561199269914064/">
-    <img src="https://vectorlogo.zone/logos/steam/steam-icon.svg" width="60" style="margin:5px;"/>
-  </a>
-  <a href="https://x.com/ТВОЙ_НИК">
-    <img src="https://vectorlogo.zone/logos/x/x-icon.svg" width="60" style="margin:5px;"/>
-  </a>
-  <a href="https://instagram.com/ТВОЙ_НИК">
-    <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" width="60" style="margin:5px;"/>
-  </a>
-  <a href="mailto:ТВОЙ_EMAIL">
-    <img src="https://vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60" style="margin:5px;"/>
-  </a>
-</p>
+
 
 
 
