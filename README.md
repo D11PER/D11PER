@@ -7,7 +7,6 @@
 
 
 
-📍 UA 🇺🇦 | EU 🇪🇺  
 🎓 IT Student at IT STEP | Currently learning  
 💻 Studying HTML, CSS, and Python  
 🎯 Goal — to become a Software Developer who builds intelligent backend solutions
