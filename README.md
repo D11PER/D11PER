@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/my_graph.png" width="900" height="450" style="border-radius:10px; margin:10px;"/>
+  <img src="assets/my_graph.png" width="950" height="450" style="border-radius:10px; margin:10px; box-shadow:0 0 15px rgba(0,0,0,0.3);"/>
 </p>
+
+
 
 
 
