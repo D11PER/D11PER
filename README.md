@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900" height="400"/>
+  <img src="assets/my_graph.png" width="900" height="450" style="border-radius:10px; margin:10px;"/>
 </p>
-
-
-
-
-
-
 
 
 
