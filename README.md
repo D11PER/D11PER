@@ -18,9 +18,10 @@
 ---
 
 ## 🛠️ Skills
-<img src="https://www.citypng.com/photo/28020/html5-logo-icon-3d-hd-png" alt="HTML" width="50"/>
-<img src="https://path-to-image/css-logo.png" alt="CSS" width="50"/>
-<img src="https://path-to-image/python-logo.png" alt="Python" width="50"/>
+## 🛠️ Skills
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
 
 
 
