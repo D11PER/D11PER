@@ -5,9 +5,17 @@
 ![Mindset](https://img.shields.io/badge/Mindset-Strategic-orange)
 
 
-<section class="bio">
-  <p>📍 UA 🇺🇦 | EU 🇪🇺</p>
-  <p>💻 IT Student | Strategic Mindset</p>
-  <p>📩 DM for collaboration</p>
-</section>
+.bio {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+.bio p {
+  margin: 5px 0;
+}
+
+
 
