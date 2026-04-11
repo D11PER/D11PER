@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+
+
 👤 About Me
 
 ![Location](https://img.shields.io/badge/Location-UA🇺🇦%20EU🇪🇺-blue)
