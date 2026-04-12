@@ -17,11 +17,7 @@
 
 
 ## ⚡ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin:5px;"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=phyton,html,css)](https://skillicons.dev)
 
 
 
