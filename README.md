@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Ollinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Oliinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
 
 ## 👤 About Me 
 
