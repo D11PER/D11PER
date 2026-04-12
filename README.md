@@ -17,19 +17,21 @@
 
 
 ## ⚡ Tech Stack
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" style="margin:5px;"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="margin:5px;"/>
-  </a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="60" style="margin:5px;"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin:5px;"/>
   </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin:5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin:5px;"/>
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" style="margin:5px;"/>
+  </a>
+
+
 
 
 
