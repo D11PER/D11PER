@@ -15,6 +15,10 @@
 🎯 Goal — to become a Software Developer who builds intelligent backend solutions
 
 
+## 🔥 Live GitHub Dashboard
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D11PER&theme=redical&hide_border=true&cache_seconds=50000" />
+</p>
 
 ## ⚡ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -34,19 +38,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
-
-
-## 📬 Contact Me
-</p align="center"> 
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/de.oliinyk/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/D11PER)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oliinykden03@gmail.com)
-
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:oliinykden03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-
-
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=9B59B6" />
+</p>
 
   
 
