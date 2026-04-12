@@ -19,31 +19,32 @@
 ## ⚡ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
+## 🔧  Tools
+[![My Skills](https://skillicons.dev/icons?i=obsidian,figma&perline=3)](https://skillicons.dev)
+
 
 ## 🛠️ Code Editors I Use
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=" 60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="margin:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="60" style="margin:5px;"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,clion)](https://skillicons.dev)
 
 
 ## 💻 Operating System I Use
+
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 
 
 ## 📬 Contact Me
-<p align="center">
+
   <a href="https://www.instagram.com/de.oliinyk/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://github.com/D11PER">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+    <a href="">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   
-</p>
 
 
 
