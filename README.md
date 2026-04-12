@@ -17,7 +17,7 @@
 
 
 ## ⚡ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=phyton,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 
 
