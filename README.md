@@ -41,9 +41,9 @@
   <a href="https://github.com/D11PER">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-    <a href="">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="mailto:oliinykden03@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a> 
   
 
 
