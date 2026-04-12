@@ -19,9 +19,18 @@
 ## ⚡ Tech Stack
 
 <p align="center">
+  
+  <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  </a> 
+
+ <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+</a>
+
+  <a href="https://www.jetbrains.com/clion/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+ </a>
 </p>
 
 
