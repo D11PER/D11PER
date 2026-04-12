@@ -20,11 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 
-
-
-
-
-
 ## 🛠️ Code Editors I Use
 
 <p align="center">
@@ -33,10 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="60" style="margin:5px;"/>
 </p>
 
+
 ## 💻 Operating System I Use
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" style="margin:5px;"/> 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=windows=light)](https://skillicons.dev)
 
 
 
