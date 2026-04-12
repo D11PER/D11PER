@@ -36,6 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="60" style="margin:5px;"/>
 </p>
 
+## 💻 Operating System I Use
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" style="margin:5px;"/> 💠
+</p>
+
+
+
 ## 📬 Contact Me
 [![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199269914064/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/de.oliinyk/)  
