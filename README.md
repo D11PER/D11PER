@@ -37,11 +37,13 @@
 
 
 ## 📬 Contact Me
+</p> 
 
-  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/de.oliinyk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/D11PER)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oliinykden03@gmail.com)
+
+</p>
 
 
 
