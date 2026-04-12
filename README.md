@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Oliinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
 
 ## 👤 About Me 
-
+![Age](https://img.shields.io/badge/Age-16-purple)
 ![Location](https://img.shields.io/badge/Location-UA🇺🇦%20EU🇪🇺-blue)  
 ![Role](https://img.shields.io/badge/Role-IT%20Student-green)  
 ![Mindset](https://img.shields.io/badge/Mindset-Strategic-orange)  
