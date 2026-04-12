@@ -17,14 +17,14 @@
 
 
 ## ⚡ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)]()
 
 ## 🔧  Tools
-[![My Skills](https://skillicons.dev/icons?i=obsidian,figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,figma&perline=3)]()
 
 
 ## 🛠️ Code Editors I Use
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,clion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,clion)]()
 
 
 ## 💻 Operating System I Use
