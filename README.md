@@ -51,7 +51,16 @@
 
 
 
-
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=X" />
+  </a>
+</p>
+</p>
 
 
 
