@@ -38,7 +38,7 @@
 
 ## 💻 Operating System I Use
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" style="margin:5px;"/> 💠
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" style="margin:5px;"/> 
 </p>
 
 
