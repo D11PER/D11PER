@@ -30,7 +30,7 @@
 
 
 ## 💻 Operating System I Use
-[![My Skills](https://skillicons.dev/icons?i=windows=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 
 
