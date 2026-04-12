@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Ollinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
 
-## 👤 About Me
+**👤 About Me **
 
 ![Location](https://img.shields.io/badge/Location-UA🇺🇦%20EU🇪🇺-blue)  
 ![Role](https://img.shields.io/badge/Role-IT%20Student-green)  
