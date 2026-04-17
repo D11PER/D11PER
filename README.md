@@ -15,10 +15,7 @@
 🎯 Goal — to become a Software Developer who builds intelligent backend solutions
 
 
-## 🔥 Live GitHub Dashboard
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D11PER&theme=redical&hide_border=true&cache_seconds=50000" />
-</p>
+
 
 ## ⚡ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
