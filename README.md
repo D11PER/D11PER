@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=3)](https://www.figma.com/)
-[![My Skills](https://skillicons.dev/icons?i=obsidian&perline=3)](https://obsidian.md/)
+
 
 ## 💻 Operating System I Use
 
