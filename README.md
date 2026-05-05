@@ -32,7 +32,7 @@
 
 
 ## 💻 Operating System I Use
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 
 ## 🌐 Connect with Me
