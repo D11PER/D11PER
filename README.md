@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=html)]()
 [![My Skills](https://skillicons.dev/icons?i=css)]()
-
+[![My Skills](https://skillicons.dev/icons?i=cpp)]()
 
 
 ## 🧠 Skills & Tools I Use
