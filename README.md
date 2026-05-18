@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Oliinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
 
-## 👤 About Me 
-![Age](https://img.shields.io/badge/Age-16-purple)
-![Location](https://img.shields.io/badge/Location-UA🇺🇦%20EU🇪🇺-blue)  
-![Role](https://img.shields.io/badge/Role-IT%20Student-green)  
-![Mindset](https://img.shields.io/badge/Mindset-Strategic-orange)  
-![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Ukrainian-lightgrey)
+
+## 👤 Denis Oliinyk  
+
+IT student from Ukraine.  
+Currently studying at IT STEP Academy with a focus on web development and programming fundamentals.  
+Fluent in English and Ukrainian.  
+Dedicated to advancing in software engineering and building reliable backend solutions.  
+
+**Goal:** To become a professional developer specializing in intelligent and scalable backend systems.  
 
 
 
-## ✨ Denis Oliinyk
-🎓 IT Student at IT STEP | Currently learning  
-💻 Studying HTML, CSS, and Python  
-🎯 Goal — to become a Software Developer who builds intelligent backend solutions
+
 
 
 
