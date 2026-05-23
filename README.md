@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Oliinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![D11PER's github stats](https://github-readme-mwendwa.vercel.app/api?username=D11PER&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=D11PER&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 
 ## ABOUT_ME.DENIS
