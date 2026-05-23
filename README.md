@@ -22,28 +22,45 @@ const me = {
 </tr>
 </table>
 
+## `// TECH_STACK.SYS`
+
+<br>
+
+**`⚡LANGUAGES**
+
+<div align="center">
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/><br><sub><b>C++</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br><sub><b>HTML</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/><br><sub><b>CSS</b></sub></td>
+
+</tr></table>
+</div>
+
+<br>
+
+**`🧠 Skills & Tools`**
+<div align="center">
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="48" height="48"/><br><sub><b>CLion</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/><br><sub><b>Visual Studio</b></sub></td>
+</tr></table>
+</div>
+<br>
+
+**`💻 Operating System`**
+<div align="center">
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48"/><br><sub><b>Windows</b></sub></td>
+</tr></table>
+</div>
+
+<br>
 
 
 
-
-
-
-## ⚡ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=html)]()
-[![My Skills](https://skillicons.dev/icons?i=css)]()
-[![My Skills](https://skillicons.dev/icons?i=cpp)]()
-
-
-## 🧠 Skills & Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
-[![My Skills](https://skillicons.dev/icons?i=figma&perline=3)](https://www.figma.com/)
-
-
-## 💻 Operating System I Use
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 
 ## 🌐 Connect with Me
@@ -53,10 +70,6 @@ const me = {
   <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-##
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=9B59B6" />
-</p>
 
   
 
