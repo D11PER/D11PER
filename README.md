@@ -1,12 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-[![D11PER's github stats](https://github-readme-mwendwa.vercel.app/api?username=D11PER&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=D11PER&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
-
-## ABOUT_ME.DENIS
+## `// ABOUT.ME`
 
 <table>
 <tr>
@@ -65,10 +57,15 @@ const me = {
 <br>
 
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![D11PER's github stats](https://github-readme-mwendwa.vercel.app/api?username=D11PER&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=D11PER&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
-## 🌐 Connect with Me
+## `//🌐 Connect with Me`
 <p align="center">
   <a href="mailto:oliinykden03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
