@@ -23,7 +23,8 @@ const me = {
 
 <br>
 
-**`⚡LANGUAGES**
+
+**`⚡LANGUAGES`**
 
 <div align="center">
 <table><tr>
