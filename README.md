@@ -1,15 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=D11PER;Denis+Oliinyk;Welcome+to+my+page+🤖)](https://git.io/typing-svg)
 
 
-## 👤 Denis Oliinyk  
+## ABOUT_ME.DENIS
 
-IT student from Ukraine.  
-Currently studying at IT STEP Academy with a focus on web development and programming fundamentals.  
-Fluent in English and Ukrainian.  
-Dedicated to advancing in software engineering and building reliable backend solutions.  
+<table>
+<tr>
+<td valign="top" width="55%">
 
-**Goal:** To become a professional developer specializing in intelligent and scalable backend systems.  
+```typescript
+const me = {
+    name: "Denis Ollinyk",
+    location: "Ukraine",
+    education: "Currently studying at IT STEP Academy ",
+    languages: "Fluent in English and Ukrainian".
 
+    goal:" To become a professional backend engineer 👨‍💻 ".
+};
+```
+
+</td>
+</tr>
+</table>
 
 
 
