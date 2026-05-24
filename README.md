@@ -29,6 +29,7 @@ const me = {
 <div align="center">
 <table><tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/><br><sub><b>C++</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br><sub><b>HTML</b></sub></td>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/><br><sub><b>CSS</b></sub></td>
 
