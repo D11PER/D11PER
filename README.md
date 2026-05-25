@@ -42,8 +42,13 @@ const me = {
 <div align="center">
 <table><tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
-<td align="center" width="100"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="48" height="48"/><br><sub><b>CLion</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/><br><sub><b>Visual Studio</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/><br><sub><b>Visual Studio</b>    
+</sub>
+</td>
+<td align="center" width="100"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="48" height="48"/><br><sub><b>CLion</b></sub>
+<td align="center" width="100"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="48" height="48"/><br><sub><b>CLion</b>
+    
+</sub></td>
 </tr></table>
 </div>
 <br>
