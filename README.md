@@ -19,7 +19,7 @@ const me = {
 </tr>
 </table>
 
-## `// TECH_STACK.SYS`
+## `// TECH_STACK`
 
 <br>
 
