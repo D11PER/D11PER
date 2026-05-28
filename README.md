@@ -84,7 +84,7 @@ const me = {
 ## `//🌐 Connect with Me`
 <p align="center">
   <a href="mailto:oliinykden03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/de.oliinyk/"><img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/D11PER"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
