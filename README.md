@@ -6,7 +6,7 @@
 
 ```typescript
 const me = {
-    name: "Denis Ollinyk",
+    name: "Denis Oliinyk",
     location: "Ukraine",
     education: "Currently studying at IT STEP Academy ",
     languages: "Fluent in English and Ukrainian".
