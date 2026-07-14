@@ -11,7 +11,7 @@ const me = {
     education: "Currently studying at IT STEP Academy ",
     languages: "Fluent in English and Ukrainian".
 
-    goal:" To become a professional backend engineer 👨‍💻 ".
+    goal:" To become a professional computer scientist 👨‍💻 ".
 };
 ```
 
