@@ -59,6 +59,12 @@ const me = {
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="48" height="48"/>
   <br><sub><b>PyCharm</b></sub>
 </td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="48" height="48"/>
+  <br><sub><b>Rider</b></sub>
+</td>
+
+    
 </tr>
 </table>
 </div>
